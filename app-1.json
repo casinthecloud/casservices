@@ -1,6 +1,6 @@
 {
   "@class" : "org.apereo.cas.services.CasRegisteredService",
-  "serviceId" : "^http://localhost:.*",
+  "serviceId" : "^http://localhost:8081/.*",
   "name" : "local app",
   "id" : 1,
   "attributeReleasePolicy" : {
