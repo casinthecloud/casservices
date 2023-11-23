@@ -2,7 +2,7 @@
     "@class" : "org.apereo.cas.support.saml.services.SamlRegisteredService",
     "serviceId" : "http://localhost:8081.*",
     "name" : "SAMLService",
-    "Id" : 30,
+    "id" : 30,
     "evaluationOrder" : 30,
     "metadataLocation" : "/Users/jleleu/sources/spring-webmvc-pac4j-boot-demo/sp-metadata.xml",
     "accessStrategy" : {
