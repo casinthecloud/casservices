@@ -4,7 +4,7 @@
   "clientSecret": "mysecret",
   "serviceId" : "^http://localhost:8081.*",
   "name": "OIDC 10",
-  "id": 10,
+  "Id": 10,
   "scopes" : [ "java.util.HashSet",
     [ "openid", "email", "profile" ]
   ],
