@@ -4,6 +4,10 @@
     "name" : "SAMLService",
     "id" : 30,
     "evaluationOrder" : 30,
-    "metadataLocation" : "/Users/jleleu/sources/spring-webmvc-pac4j-boot-demo/sp-metadata.xml"
+    "metadataLocation" : "/Users/jleleu/sources/spring-webmvc-pac4j-boot-demo/sp-metadata.xml",
+    "accessStrategy" : {
+      "@class" : "org.apereo.cas.services.DefaultRegisteredServiceAccessStrategy",
+      "enabled" : false
+    }
   }
   
