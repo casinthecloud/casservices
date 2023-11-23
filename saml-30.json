@@ -7,7 +7,7 @@
     "metadataLocation" : "/Users/jleleu/sources/spring-webmvc-pac4j-boot-demo/sp-metadata.xml",
     "accessStrategy" : {
       "@class" : "org.apereo.cas.services.DefaultRegisteredServiceAccessStrategy",
-      "enabled" : false
+      "enabled" : true
     }
   }
   
