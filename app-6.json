@@ -2,7 +2,7 @@
   "@class" : "org.apereo.cas.services.CasRegisteredService",
   "serviceId" : "^http://localhost:86.*",
   "name" : "local app 6",
-  "Id" : 6,
+  "id" : 6,
   "attributeReleasePolicy" : {
     "@class" : "org.apereo.cas.services.ReturnAllAttributeReleasePolicy"
   }
